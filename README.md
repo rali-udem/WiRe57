@@ -29,5 +29,10 @@ not. In turn, we use this reference to score existing Open IE systems. We addres
 the extractions produced by systems against the reference tuples, and share our evaluation script. Among seven compared 
 extractors, we find the MinIE system to perform best.
 
+# Available resources
+
+The [annotation guidelines](https://docs.google.com/document/d/1NKr1dPReuMg9PZ4kz5X5QRXcHcup4RMkeocARp-jhik/edit) 
+define how to annotate English text with triples.
+
 
 
