@@ -18,6 +18,7 @@ In order to mitigate this problem, we built a reference for the task of Open Inf
 The [annotation guidelines](https://docs.google.com/document/d/1NKr1dPReuMg9PZ4kz5X5QRXcHcup4RMkeocARp-jhik/edit) define how to annotate English text with triples.
 
 The `data` directory contains the following files:
+* `README.md`: Specifies the source of the annotated documents.
 * `WiRe57_343-manual-oie.json`: The WiRe57 manual reference
 * `WiRe57_extractions_by_ollie_clausie_openie_stanford_minie_reverb_props-export.json`: Extractions by state-of-the-art OIE systems on WiRe documents.
 
