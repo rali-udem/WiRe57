@@ -4,7 +4,7 @@ This repository contains resources for the Open Information Extraction benchmark
 
 It acts as a companion to the article
 
-William Léchelle, Fabrizio Gotti, Philippe Langlais (2019), *WiRe57 : A Fine-Grained Benchmark for Open Information Extraction*, LAW XIII 2019 : The 13th Linguistic Annotation Workshop
+William Léchelle, Fabrizio Gotti, Philippe Langlais (2019), [*WiRe57 : A Fine-Grained Benchmark for Open Information Extraction*](https://arxiv.org/abs/1809.08962), LAW XIII 2019 : The 13th Linguistic Annotation Workshop
  
 # Introduction
 Open  Information  Extraction  (OIE) systems,  starting with [TextRunner](http://www.aclweb.org/anthology/N07-4013), seek to extract all relational tuples expressed in text, without being  bound to an  anticipated  list  of  predicates. Such  systems  have  been  used  recently  for relation extraction, question-answering,  and  for  building domain-targeted knowledge bases, among others.
