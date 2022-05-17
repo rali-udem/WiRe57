@@ -15,7 +15,7 @@ In order to mitigate this problem, we built a reference for the task of Open Inf
 
 # Available resources
 
-The [annotation guidelines](https://docs.google.com/document/d/1NKr1dPReuMg9PZ4kz5X5QRXcHcup4RMkeocARp-jhik/edit) define how to annotate English text with triples.
+The [annotation guidelines](https://docs.google.com/document/d/1DI4r8NpeS0-ZtHP24Q_oioQh0xyYK6vIjKrKmeNo-aE/edit) define how to annotate English text with triples.
 
 The `data` directory contains the following files:
 * `README.md`: Specifies the source of the annotated documents.
